@@ -1,12 +1,12 @@
-##Summary # Reconciliation-Tool-for-Payroll-Input-Control
+Reconciliation-Tool-for-Payroll-Input-Control
 PayrollGuard flags, reconciles and helps correct inconsistent or suspicious payroll input data before pay runs. It combines deterministic rules, fuzzy record linkage and ML-powered anomaly detection with a human-in-the-loop reconciliation UI and a clear audit trail to reduce payroll errors, rework and regulatory risk.
 PayrollGuard — Intelligent Reconciliation & Input Control
 Final project for the Building AI course
 
-Summary
+## Summary 
 PayrollGuard automatically detects, links and helps reconcile inconsistent payroll input data before pay runs. It combines deterministic rules, fuzzy record linkage, ML anomaly detection and a human‑in‑the‑loop UI to reduce payroll errors, rework and compliance risk.
 
-Background
+## Background
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 Payroll operations routinely ingest data from many sources (HR systems, timekeeping, vendor feeds, manual edits). Common problems:
@@ -52,7 +52,7 @@ HRIS, timekeeping, ERP/GL, banking/payout system, SSO/Identity provider
 Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 
-Data sources (sensitive PII — treat carefully)
+## Data sources (sensitive PII — treat carefully)
 
 Master data: employee/contractor records, bank last4, tax ID, DOB, addresses
 Transactional: timesheets, payroll journal entries, pay rates, deductions
@@ -74,7 +74,7 @@ PII must be encrypted at rest/in transit; access control and audit logging are m
 Challenges
 What does your project not solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
-Limitations & risks
+## Limitations & risks
 
 Not a replacement for human judgment on legal or union pay rules — high‑risk corrections should remain manual
 Incomplete or poor master data reduces matching accuracy
@@ -89,7 +89,7 @@ Keep an audit trail of automated actions and require approvals for payout‑affe
 What next?
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on?
 
-Phased roadmap
+## Phased roadmap
 
 MVP: CSV ingestion, deterministic checks, blocking + fuzzy linkage, simple web triage UI, audit log
 Production: API integrations with HRIS/timekeeping, role‑based access, encryption, monitoring
