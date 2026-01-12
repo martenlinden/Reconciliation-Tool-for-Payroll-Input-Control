@@ -1,6 +1,6 @@
 # Project Title
 
-Final project for the Building AI course - PayrollGuard — Intelligent Reconciliation & Input Control
+PayrollGuard — Intelligent Reconciliation & Input Control
 
 ## Summary 
 PayrollGuard automatically detects, links and helps reconcile inconsistent payroll input data before pay runs. It combines deterministic rules, fuzzy record linkage, ML anomaly detection and a human‑in‑the‑loop UI to reduce payroll errors, rework and compliance risk.
