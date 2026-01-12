@@ -1,10 +1,9 @@
+## Summary 
+PayrollGuard automatically detects, links and helps reconcile inconsistent payroll input data before pay runs. It combines deterministic rules, fuzzy record linkage, ML anomaly detection and a human‑in‑the‑loop UI to reduce payroll errors, rework and compliance risk.
 Reconciliation-Tool-for-Payroll-Input-Control
 PayrollGuard flags, reconciles and helps correct inconsistent or suspicious payroll input data before pay runs. It combines deterministic rules, fuzzy record linkage and ML-powered anomaly detection with a human-in-the-loop reconciliation UI and a clear audit trail to reduce payroll errors, rework and regulatory risk.
 PayrollGuard — Intelligent Reconciliation & Input Control
 Final project for the Building AI course
-
-## Summary 
-PayrollGuard automatically detects, links and helps reconcile inconsistent payroll input data before pay runs. It combines deterministic rules, fuzzy record linkage, ML anomaly detection and a human‑in‑the‑loop UI to reduce payroll errors, rework and compliance risk.
 
 ## Background
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
